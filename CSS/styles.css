@@ -11,7 +11,14 @@ h2{
 }
 p{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: medium;
+  font-style: italic;
 }
 ul{
   line-height: 40px;
+}
+body{
+  image-resolution: 1080p;
+  text-align: center;
 }
