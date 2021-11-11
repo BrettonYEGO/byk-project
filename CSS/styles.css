@@ -1,0 +1,17 @@
+h1 {
+  color: green;
+  text-align: center;
+  text-decoration: hotpink;
+
+}
+h2{
+  color: black;
+  text-align: center;
+  font-style: oblique;
+}
+p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+  line-height: 40px;
+}
